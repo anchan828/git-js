@@ -1,3 +1,5 @@
+Forked from [steveukx/git-js](https://github.com/steveukx/git-js). I added `shell: true` to spawn options
+
 # Simple Git
 [![NPM version](http://img.shields.io/npm/v/simple-git.svg)](https://www.npmjs.com/package/simple-git) [![Build Status](https://travis-ci.org/steveukx/git-js.svg?branch=master)](https://travis-ci.org/steveukx/git-js)
 
